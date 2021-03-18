@@ -2,3 +2,4 @@ asyncio
 tgcrypto
 aria2p
 https://github.com/pyrogram/pyrogram/archive/master.zip
+telethon
