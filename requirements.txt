@@ -1,4 +1,4 @@
 asyncio
 tgcrypto
 aria2p
-pyrogram
+https://github.com/pyrogram/pyrogram/archive/master.zip
